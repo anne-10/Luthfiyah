@@ -1,0 +1,11 @@
+Package: Luthfiyah
+Type: Package
+Title: Implements a constructor and method using s3 oop
+Version: 0.1.0
+Author: Anne Luthfiyah
+Maintainer: Anne Luthfiyah <anne@ou.edu>
+Description: This is made to fulfill the Advanced R project requirements
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
